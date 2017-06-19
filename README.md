@@ -1,5 +1,5 @@
 [Codecov][0] Java Maven Example1 
-=============================== test---test
+=============================== test---
 
 1. Add `cobertura-maven-plugin` plugin to your pom.xml file, [see here](https://github.com/codecov/example-java-maven/blob/master/pom.xml#L47-L58)
 1. Call `mvn cobertura:cobertura` during your CI tests, [see here](https://github.com/codecov/example-java-maven/blob/master/.travis.yml#L4)
