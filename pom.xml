@@ -17,7 +17,7 @@
 
 	<groupId>org.jacoco</groupId>
 	<artifactId>org.jacoco.examples.maven.java</artifactId>
-	<version>1.2.42-SNAPPPSHOT</version>
+	<version>1.2.433-SNAPPPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Cobertura Maven plug-in example for Java project</name>
