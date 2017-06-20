@@ -8,7 +8,7 @@
    http://www.eclipse.org/legal/epv10.html pom    
   
    Contributors:
-      Marc R. Hoffmann - initial API and implementation
+      Marc R. Hoffmann - initial A   PI and implementation
 -->   
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -17,7 +17,7 @@
 
 	<groupId>org.jacoco</groupId>
 	<artifactId>org.jacoco.examples.maven.java</artifactId>
-	<version>1.2.25-SNAPSHOT</version>
+	<version>1.2.26-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Cobertura Maven plug-in example for Java project</name>
